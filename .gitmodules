@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/luisabfs/node-transactions
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/luisabfs/ts-finances
